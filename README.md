@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react and typescript**
 
-- ⚡ Fun fact **Let's find the perfect balance between rest and productivity 😴💻**
+- ⚡ **Let's find the perfect balance between rest and productivity 😴💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
